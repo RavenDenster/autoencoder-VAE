@@ -1,0 +1,163 @@
+Epoch 1/50
+196/196 ━━━━━━━━━━━━━━━━━━━━ 9s 40ms/step - kl_loss: 1.4296 - loss: 647.0620 - rec_loss: 645.6323   
+Epoch 2/50
+196/196 ━━━━━━━━━━━━━━━━━━━━ 9s 44ms/step - kl_loss: 2.3972 - loss: 596.5162 - rec_loss: 594.1190 
+Epoch 3/50
+196/196 ━━━━━━━━━━━━━━━━━━━━ 9s 48ms/step - kl_loss: 2.5429 - loss: 587.6939 - rec_loss: 585.1510 
+Epoch 4/50
+196/196 ━━━━━━━━━━━━━━━━━━━━ 10s 50ms/step - kl_loss: 2.6096 - loss: 584.0764 - rec_loss: 581.4668
+Epoch 5/50
+196/196 ━━━━━━━━━━━━━━━━━━━━ 10s 53ms/step - kl_loss: 2.6435 - loss: 582.2116 - rec_loss: 579.5681
+Epoch 6/50
+196/196 ━━━━━━━━━━━━━━━━━━━━ 11s 54ms/step - kl_loss: 2.6734 - loss: 580.1684 - rec_loss: 577.4949
+Epoch 7/50
+196/196 ━━━━━━━━━━━━━━━━━━━━ 11s 57ms/step - kl_loss: 2.6789 - loss: 579.1898 - rec_loss: 576.5109
+Epoch 8/50
+196/196 ━━━━━━━━━━━━━━━━━━━━ 11s 56ms/step - kl_loss: 2.6719 - loss: 578.4774 - rec_loss: 575.8055
+Epoch 9/50
+196/196 ━━━━━━━━━━━━━━━━━━━━ 11s 56ms/step - kl_loss: 2.6638 - loss: 578.0002 - rec_loss: 575.3364
+Epoch 10/50
+196/196 ━━━━━━━━━━━━━━━━━━━━ 11s 56ms/step - kl_loss: 2.6517 - loss: 577.5671 - rec_loss: 574.9155
+Epoch 11/50
+196/196 ━━━━━━━━━━━━━━━━━━━━ 11s 56ms/step - kl_loss: 2.6387 - loss: 577.3209 - rec_loss: 574.6823
+Epoch 12/50
+196/196 ━━━━━━━━━━━━━━━━━━━━ 11s 57ms/step - kl_loss: 2.6252 - loss: 577.0616 - rec_loss: 574.4365
+Epoch 13/50
+196/196 ━━━━━━━━━━━━━━━━━━━━ 11s 56ms/step - kl_loss: 2.6129 - loss: 576.9988 - rec_loss: 574.3859
+Epoch 14/50
+196/196 ━━━━━━━━━━━━━━━━━━━━ 11s 55ms/step - kl_loss: 2.5998 - loss: 576.6915 - rec_loss: 574.0916
+Epoch 15/50
+196/196 ━━━━━━━━━━━━━━━━━━━━ 11s 56ms/step - kl_loss: 2.5895 - loss: 576.7358 - rec_loss: 574.1462
+Epoch 16/50
+196/196 ━━━━━━━━━━━━━━━━━━━━ 11s 56ms/step - kl_loss: 2.5781 - loss: 576.3681 - rec_loss: 573.7900
+Epoch 17/50
+196/196 ━━━━━━━━━━━━━━━━━━━━ 11s 57ms/step - kl_loss: 2.5644 - loss: 576.3101 - rec_loss: 573.7456
+Epoch 18/50
+196/196 ━━━━━━━━━━━━━━━━━━━━ 11s 55ms/step - kl_loss: 2.5538 - loss: 576.1469 - rec_loss: 573.5930
+Epoch 19/50
+196/196 ━━━━━━━━━━━━━━━━━━━━ 11s 54ms/step - kl_loss: 2.5432 - loss: 576.1185 - rec_loss: 573.5753
+Epoch 20/50
+196/196 ━━━━━━━━━━━━━━━━━━━━ 11s 54ms/step - kl_loss: 2.5335 - loss: 575.8962 - rec_loss: 573.3627
+Epoch 21/50
+196/196 ━━━━━━━━━━━━━━━━━━━━ 11s 55ms/step - kl_loss: 2.5243 - loss: 575.8793 - rec_loss: 573.3549
+Epoch 22/50
+196/196 ━━━━━━━━━━━━━━━━━━━━ 11s 55ms/step - kl_loss: 2.5166 - loss: 575.9360 - rec_loss: 573.4193
+Epoch 23/50
+196/196 ━━━━━━━━━━━━━━━━━━━━ 11s 55ms/step - kl_loss: 2.5094 - loss: 575.6647 - rec_loss: 573.1554
+Epoch 24/50
+196/196 ━━━━━━━━━━━━━━━━━━━━ 11s 55ms/step - kl_loss: 2.5017 - loss: 575.9946 - rec_loss: 573.4930
+Epoch 25/50
+196/196 ━━━━━━━━━━━━━━━━━━━━ 11s 54ms/step - kl_loss: 2.4950 - loss: 575.5715 - rec_loss: 573.0764
+Epoch 26/50
+196/196 ━━━━━━━━━━━━━━━━━━━━ 11s 54ms/step - kl_loss: 2.4876 - loss: 575.5512 - rec_loss: 573.0636
+Epoch 27/50
+196/196 ━━━━━━━━━━━━━━━━━━━━ 11s 54ms/step - kl_loss: 2.4841 - loss: 575.5930 - rec_loss: 573.1089
+Epoch 28/50
+196/196 ━━━━━━━━━━━━━━━━━━━━ 11s 55ms/step - kl_loss: 2.4777 - loss: 575.5660 - rec_loss: 573.0884
+Epoch 29/50
+196/196 ━━━━━━━━━━━━━━━━━━━━ 11s 54ms/step - kl_loss: 2.4703 - loss: 575.4401 - rec_loss: 572.9698
+Epoch 30/50
+196/196 ━━━━━━━━━━━━━━━━━━━━ 11s 54ms/step - kl_loss: 2.4632 - loss: 575.3047 - rec_loss: 572.8416
+Epoch 31/50
+196/196 ━━━━━━━━━━━━━━━━━━━━ 11s 54ms/step - kl_loss: 2.4596 - loss: 575.2586 - rec_loss: 572.7990
+Epoch 32/50
+196/196 ━━━━━━━━━━━━━━━━━━━━ 11s 54ms/step - kl_loss: 2.4558 - loss: 575.3846 - rec_loss: 572.9288
+Epoch 33/50
+196/196 ━━━━━━━━━━━━━━━━━━━━ 11s 54ms/step - kl_loss: 2.4503 - loss: 575.1963 - rec_loss: 572.7460
+Epoch 34/50
+196/196 ━━━━━━━━━━━━━━━━━━━━ 11s 55ms/step - kl_loss: 2.4467 - loss: 575.0582 - rec_loss: 572.6114
+Epoch 35/50
+196/196 ━━━━━━━━━━━━━━━━━━━━ 11s 54ms/step - kl_loss: 2.4432 - loss: 575.1078 - rec_loss: 572.6647
+Epoch 36/50
+196/196 ━━━━━━━━━━━━━━━━━━━━ 11s 54ms/step - kl_loss: 2.4392 - loss: 575.1668 - rec_loss: 572.7276
+Epoch 37/50
+196/196 ━━━━━━━━━━━━━━━━━━━━ 11s 54ms/step - kl_loss: 2.4357 - loss: 574.8535 - rec_loss: 572.4177
+Epoch 38/50
+196/196 ━━━━━━━━━━━━━━━━━━━━ 11s 54ms/step - kl_loss: 2.4330 - loss: 574.8340 - rec_loss: 572.4011
+Epoch 39/50
+196/196 ━━━━━━━━━━━━━━━━━━━━ 11s 54ms/step - kl_loss: 2.4296 - loss: 574.9965 - rec_loss: 572.5668
+Epoch 40/50
+196/196 ━━━━━━━━━━━━━━━━━━━━ 11s 55ms/step - kl_loss: 2.4263 - loss: 574.9270 - rec_loss: 572.5007
+Epoch 41/50
+196/196 ━━━━━━━━━━━━━━━━━━━━ 11s 54ms/step - kl_loss: 2.4229 - loss: 574.8266 - rec_loss: 572.4037
+Epoch 42/50
+196/196 ━━━━━━━━━━━━━━━━━━━━ 11s 54ms/step - kl_loss: 2.4196 - loss: 574.9241 - rec_loss: 572.5045
+Epoch 43/50
+196/196 ━━━━━━━━━━━━━━━━━━━━ 11s 54ms/step - kl_loss: 2.4170 - loss: 574.6667 - rec_loss: 572.2498
+Epoch 44/50
+196/196 ━━━━━━━━━━━━━━━━━━━━ 11s 54ms/step - kl_loss: 2.4136 - loss: 574.9504 - rec_loss: 572.5369
+Epoch 45/50
+196/196 ━━━━━━━━━━━━━━━━━━━━ 11s 54ms/step - kl_loss: 2.4115 - loss: 574.7762 - rec_loss: 572.3647
+Epoch 46/50
+196/196 ━━━━━━━━━━━━━━━━━━━━ 11s 55ms/step - kl_loss: 2.4097 - loss: 574.7268 - rec_loss: 572.3171
+Epoch 47/50
+196/196 ━━━━━━━━━━━━━━━━━━━━ 11s 56ms/step - kl_loss: 2.4063 - loss: 574.6650 - rec_loss: 572.2588
+Epoch 48/50
+196/196 ━━━━━━━━━━━━━━━━━━━━ 11s 54ms/step - kl_loss: 2.4053 - loss: 574.8586 - rec_loss: 572.4534
+Epoch 49/50
+196/196 ━━━━━━━━━━━━━━━━━━━━ 11s 55ms/step - kl_loss: 2.4028 - loss: 574.7057 - rec_loss: 572.3029
+Epoch 50/50
+196/196 ━━━━━━━━━━━━━━━━━━━━ 11s 55ms/step - kl_loss: 2.3985 - loss: 574.6365 - rec_loss: 572.2380
+Генерация класса 0...
+Генерация класса 1...
+Генерация класса 2...
+Генерация класса 3...
+Генерация класса 4...
+Генерация класса 5...
+Генерация класса 6...
+Генерация класса 7...
+Генерация класса 8...
+Генерация класса 9...
+/home/ravendexter/Desktop/code/university/ai-4sem/lb_3/venv/lib/python3.12/site-packages/keras/src/layers/convolutional/base_conv.py:107: UserWarning: Do not pass an `input_shape`/`input_dim` argument to a layer. When using Sequential models, prefer using an `Input(shape)` object as the first layer in the model instead.
+  super().__init__(activity_regularizer=activity_regularizer, **kwargs)
+/home/ravendexter/Desktop/code/university/ai-4sem/lb_3/venv/lib/python3.12/site-packages/keras/src/trainers/data_adapters/py_dataset_adapter.py:121: UserWarning: Your `PyDataset` class should call `super().__init__(**kwargs)` in its constructor. `**kwargs` can include `workers`, `use_multiprocessing`, `max_queue_size`. Do not pass these arguments to `fit()`, as they will be ignored.
+  self._warn_if_super_not_called()
+Epoch 1/25
+782/782 ━━━━━━━━━━━━━━━━━━━━ 54s 67ms/step - accuracy: 0.1002 - loss: 2.8798 - val_accuracy: 0.1014 - val_loss: 2.3060
+Epoch 2/25
+782/782 ━━━━━━━━━━━━━━━━━━━━ 52s 66ms/step - accuracy: 0.1133 - loss: 2.3033 - val_accuracy: 0.1131 - val_loss: 3.3528
+Epoch 3/25
+782/782 ━━━━━━━━━━━━━━━━━━━━ 52s 67ms/step - accuracy: 0.1917 - loss: 2.0624 - val_accuracy: 0.1131 - val_loss: 5.0703
+Epoch 4/25
+782/782 ━━━━━━━━━━━━━━━━━━━━ 52s 67ms/step - accuracy: 0.2342 - loss: 1.9116 - val_accuracy: 0.1088 - val_loss: 8.1855
+Epoch 5/25
+782/782 ━━━━━━━━━━━━━━━━━━━━ 52s 67ms/step - accuracy: 0.2518 - loss: 1.8491 - val_accuracy: 0.1126 - val_loss: 10.1105
+Epoch 6/25
+782/782 ━━━━━━━━━━━━━━━━━━━━ 52s 66ms/step - accuracy: 0.2779 - loss: 1.7724 - val_accuracy: 0.1173 - val_loss: 11.7215
+Epoch 7/25
+782/782 ━━━━━━━━━━━━━━━━━━━━ 53s 67ms/step - accuracy: 0.3225 - loss: 1.6729 - val_accuracy: 0.1196 - val_loss: 13.4222
+Epoch 8/25
+782/782 ━━━━━━━━━━━━━━━━━━━━ 52s 67ms/step - accuracy: 0.3553 - loss: 1.5916 - val_accuracy: 0.1168 - val_loss: 12.3490
+Epoch 9/25
+782/782 ━━━━━━━━━━━━━━━━━━━━ 52s 67ms/step - accuracy: 0.3710 - loss: 1.5350 - val_accuracy: 0.1220 - val_loss: 9.5931
+Epoch 10/25
+782/782 ━━━━━━━━━━━━━━━━━━━━ 54s 68ms/step - accuracy: 0.3839 - loss: 1.4863 - val_accuracy: 0.1197 - val_loss: 15.6533
+Epoch 11/25
+782/782 ━━━━━━━━━━━━━━━━━━━━ 52s 67ms/step - accuracy: 0.3905 - loss: 1.4644 - val_accuracy: 0.1075 - val_loss: 13.7800
+Epoch 12/25
+782/782 ━━━━━━━━━━━━━━━━━━━━ 52s 67ms/step - accuracy: 0.4044 - loss: 1.4205 - val_accuracy: 0.1290 - val_loss: 17.6362
+Epoch 13/25
+782/782 ━━━━━━━━━━━━━━━━━━━━ 55s 70ms/step - accuracy: 0.4141 - loss: 1.3938 - val_accuracy: 0.1369 - val_loss: 11.6003
+Epoch 14/25
+782/782 ━━━━━━━━━━━━━━━━━━━━ 55s 70ms/step - accuracy: 0.4274 - loss: 1.3653 - val_accuracy: 0.1133 - val_loss: 14.4277
+Epoch 15/25
+782/782 ━━━━━━━━━━━━━━━━━━━━ 54s 69ms/step - accuracy: 0.4317 - loss: 1.3506 - val_accuracy: 0.1111 - val_loss: 17.6690
+Epoch 16/25
+782/782 ━━━━━━━━━━━━━━━━━━━━ 54s 69ms/step - accuracy: 0.4362 - loss: 1.3418 - val_accuracy: 0.1140 - val_loss: 17.0050
+Epoch 17/25
+782/782 ━━━━━━━━━━━━━━━━━━━━ 54s 69ms/step - accuracy: 0.4413 - loss: 1.3126 - val_accuracy: 0.1081 - val_loss: 19.6190
+Epoch 18/25
+782/782 ━━━━━━━━━━━━━━━━━━━━ 54s 69ms/step - accuracy: 0.4495 - loss: 1.3104 - val_accuracy: 0.1181 - val_loss: 15.5241
+Epoch 19/25
+782/782 ━━━━━━━━━━━━━━━━━━━━ 55s 70ms/step - accuracy: 0.4534 - loss: 1.2943 - val_accuracy: 0.1112 - val_loss: 26.6068
+Epoch 20/25
+782/782 ━━━━━━━━━━━━━━━━━━━━ 55s 70ms/step - accuracy: 0.4552 - loss: 1.2853 - val_accuracy: 0.1104 - val_loss: 27.8538
+Epoch 21/25
+782/782 ━━━━━━━━━━━━━━━━━━━━ 55s 70ms/step - accuracy: 0.4630 - loss: 1.2645 - val_accuracy: 0.1128 - val_loss: 24.0935
+Epoch 22/25
+782/782 ━━━━━━━━━━━━━━━━━━━━ 55s 70ms/step - accuracy: 0.4731 - loss: 1.2445 - val_accuracy: 0.1087 - val_loss: 33.1826
+Epoch 23/25
+782/782 ━━━━━━━━━━━━━━━━━━━━ 54s 69ms/step - accuracy: 0.4787 - loss: 1.2254 - val_accuracy: 0.1085 - val_loss: 56.5982
+313/313 - 3s - 11ms/step - accuracy: 0.1369 - loss: 11.6003
+
+Точность на реальных данных: 13.69%
