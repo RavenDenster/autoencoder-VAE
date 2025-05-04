@@ -1,1 +1,4 @@
 venv
+old_lb.keras
+**/*.h5*
+__pycache__
